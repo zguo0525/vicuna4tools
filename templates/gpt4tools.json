@@ -1,6 +1,3 @@
-{
-    "description": "A short template for gpt4tools.",
-    "prompt_input": "{instruction}\n### USER: {input}\n### ASSISTANT:\n",
-    "prompt_no_input": "{instruction}\n### ASSISTANT:\n",
-    "response_split": "### ASSISTANT:"    
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9ac611a05197c660e76d062097c46aec39d30f16803a0cc4579f9ccd3f80a0b
+size 232
